@@ -131,9 +131,9 @@ EMAIL_PASS=your_email_password
 npm run dev
 ```
 ## 📷 ตัวอย่างหน้าจอ
-![Uploading Screenshot 2024-06-27 203319.png…]()
-![Screenshot 2024-06-27 203357](https://github.com/user-attachments/assets/c7bd4caa-66e8-4862-aaf3-31b2d84bc3c4)
+![Screenshot 2024-06-27 203319](https://github.com/user-attachments/assets/6b1a1992-8ede-4d6c-8d3d-79d9dfebe984)
 ![Screenshot 2024-06-27 203419](https://github.com/user-attachments/assets/8ea7f90f-c064-4e49-86a1-8db2a9948283)
+![Screenshot 2024-06-27 203357](https://github.com/user-attachments/assets/c7bd4caa-66e8-4862-aaf3-31b2d84bc3c4)
 ![Screenshot 2024-06-28 080634](https://github.com/user-attachments/assets/a996d902-adb8-4e34-8135-2fc37861e1bb)
 ![Screenshot 2024-06-28 081102](https://github.com/user-attachments/assets/f0486327-8a37-4336-a4d0-3fbeedd626b7)
 ![Screenshot 2024-06-29 132902](https://github.com/user-attachments/assets/bdf72fb8-9fa7-4b8f-9914-91197327dba7)
