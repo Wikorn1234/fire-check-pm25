@@ -58,16 +58,51 @@
 
 ## 📁 โครงสร้างโปรเจกต์ (บางส่วน)
 ```bash
-fire-check/ 
-├── backend/ 
-│   ├── controllers/ 
-│   ├── models/ 
-│   ├── routes/ 
-│   ├── ml_model/ ← ML Script (Python) 
-│   ├── config/ 
-│   ├── server.js 
-│   └── .env.example 
-└── README.md
+FIRE-CHECK/
+├── config/
+│   └── limits.json
+├── models/
+│   └── model_random_forest_ipn.joblib
+├── node_modules/
+├── public/
+├── routes/
+│   ├── admin.js
+│   ├── auth.js
+│   └── predict.js
+├── uploads/
+├── views/
+│   ├── about.ejs
+│   ├── admin_dashboard.ejs
+│   ├── admin_invite.ejs
+│   ├── admin_register.ejs
+│   ├── burning.ejs
+│   ├── contact.ejs
+│   ├── detail_request.ejs
+│   ├── history_request_admin.ejs
+│   ├── history_request_officer.ejs
+│   ├── history_request.ejs
+│   ├── index.ejs
+│   ├── login_process.ejs
+│   ├── login.ejs
+│   ├── logout.ejs
+│   ├── officer_dashboard.ejs
+│   ├── officer_details.ejs
+│   ├── register_process.ejs
+│   ├── register.ejs
+│   ├── submit_request.ejs
+│   ├── submit-contact.ejs
+│   └── user_details.ejs
+├── .gitignore
+├── addAdminUser.js
+├── database.js
+├── emailVerifier.js
+├── index.js
+├── initializeConfig.js
+├── package-lock.json
+├── package.json
+├── README.md
+├── testEmailAPI.js
+└── weather.js
 ```
 ---
 
