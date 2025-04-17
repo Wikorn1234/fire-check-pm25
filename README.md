@@ -80,21 +80,21 @@ git clone https://github.com/Wikorn1234/fire-check-pm25.git
 cd fire-check-pm25/backend
 ```
 ### 2. ติดตั้ง Dependencies
-
+```bash
 npm install
-
+```
 ### 3. สร้างไฟล์ .env
-
+```bash
 PORT=5000
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_secret_key
 EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
-
+```
 ### 4. เริ่มรันระบบ
-
+```bash
 npm run dev
-
+```
 ## 📷 ตัวอย่างหน้าจอ
 
 (ใส่รูปหรือข้อมูลที่ต้องการแสดงตรงนี้)
